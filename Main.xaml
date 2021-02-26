@@ -75,7 +75,7 @@
         <OutArgument x:TypeArguments="x:String">[v_sWay]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">M</InArgument>
+        <InArgument x:TypeArguments="x:String">L</InArgument>
       </Assign.Value>
     </Assign>
     <ui:LogMessage DisplayName="Concat - Log Message" sap:VirtualizedContainerService.HintSize="813.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[String.Concat(&quot; Select method &quot;, v_sWay.tostring)]" />
